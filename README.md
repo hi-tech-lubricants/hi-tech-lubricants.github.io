@@ -31,7 +31,7 @@ The `index.html` file serves as the homepage for our website. It offers a welcom
 
 ## Contact
 
-For more information, please visit our contact page or email us at info@hitechlubricants.com.
+For more information, please visit our contact page or email us at hitechlubricants538@gmail.com.
 
 ---
 
